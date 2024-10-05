@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yusrilihza-m
-- 👀 I’m interested in Back Eend Developer
+- 👀 I’m interested in Back End Developer
 - 🌱 I’m currently learning C++, HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
